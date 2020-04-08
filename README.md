@@ -63,6 +63,9 @@
 * [HWS-Project07](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2007%20-%20HWS%20Petitions/Project%2007%20-%20Hacking%20With%20Swift)
 * [HWS-Project12](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2012.2%20-%20HWS%20Names%20to%20Faces/Project%2010%20-%20HWS%20Names%20to%20Faces)
 
+#### MessageExtenstion
+* [HWS-TimeShare](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/TimeShare)
+
 #### Cloudkit
 * [HWS-WhatsThatWhistle](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/33%20-%20What's%20That%20Whistle%3F)
 
@@ -77,9 +80,11 @@
 * [HWS-Project26](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2026.3%20-%20HWS%20Marble%20Maze)
 
 #### CoreSpotlight
+* [HWS-HappyDays](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/Happy%20Days)
 * [HWS-SwiftSearcher](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/32%20-%20SwiftSearcher/32%20-%20SwiftSearcher)
 
 #### MobileCoreServices
+* [HWS-HappyDays](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/Happy%20Days)
 * [HWS-SwiftSearcher](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/32%20-%20SwiftSearcher/32%20-%20SwiftSearcher)
 
 #### SafariServices
@@ -87,10 +92,14 @@
 * [HWS-SwiftSearcher](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/32%20-%20SwiftSearcher/32%20-%20SwiftSearcher)
 
 #### AVFoundation
+* [HWS-HappyDays](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/Happy%20Days)
 * [HWS-WhatsThatWhistle](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/33%20-%20What's%20That%20Whistle%3F)
 * [HWS-PsychicTester](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/37%20-%20Psychic%20Tester/37%20-%20Psychic%20Tester)
 * [Scorekeeper Lite](https://github.com/thomaskellough/scorekeeper)
 * [HWS-Project23.1](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2023.1%20-%20HWS%20Swifty%20Ninja/Project%2023%20-%20HWS%20Swifty%20Ninja)
+
+#### Photos
+* [HWS-HappyDays](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/Happy%20Days)
 
 #### LocalAuthentication (touch/faceID)
 * [HWS-Project28](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2028.2%20-%20HWS%20Secret%20Swift)
@@ -118,6 +127,7 @@
 * [HWS-Project10.3](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2010.3%20-%20HWS%20Storm%20Viewer/Project1)
 
 #### CollectionView
+* [HWS-HappyDays](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/Happy%20Days)
 * [HWS-Project10](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2010.1%20-%20HWS%20Names%20to%20Faces/Project%2010%20-%20HWS%20Names%20to%20Faces)
 * [HWS-Project10.3](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2010.3%20-%20HWS%20Storm%20Viewer/Project1)
 
