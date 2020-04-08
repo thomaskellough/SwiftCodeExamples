@@ -21,8 +21,8 @@
 * [HWS-Project26](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2026.3%20-%20HWS%20Marble%20Maze)
 
 #### UserNotifications
-* [HWS-Project21)(https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2021.2%20-%20HWS%20Local%20Notifications/Project%2021%20-%20HWS%20Local%20Notifications)
-* [HWS-Project21.3)(https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2021.3%20-%20HWS%20Flag%20Game/Project2)
+* [HWS-Project21](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2021.2%20-%20HWS%20Local%20Notifications/Project%2021%20-%20HWS%20Local%20Notifications)
+* [HWS-Project21.3](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2021.3%20-%20HWS%20Flag%20Game/Project2)
 
 #### NotificationCenter
 * [HWS-Project28](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2028.2%20-%20HWS%20Secret%20Swift)
@@ -35,7 +35,7 @@
 * [HWS-Project13](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2013.3%20-%20HWS%20Instafilter/Project%2013%20-%20HWS%20Instafilter)
 
 #### CoreLocation
-* [HWS-Project22)(https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2022.1%20-%20HWS%20Detect%20a%20Beacon/Project%2022%20-%20HWS%20Detect%20a%20Beacon)
+* [HWS-Project22](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2022.1%20-%20HWS%20Detect%20a%20Beacon/Project%2022%20-%20HWS%20Detect%20a%20Beacon)
 
 #### CoreMotion
 * [HWS-Project26](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2026.3%20-%20HWS%20Marble%20Maze)
