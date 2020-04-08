@@ -1,4 +1,4 @@
-# SwiftCodeExamples
+# Swift/iOS Development Code Examples
 ### A collection of various skills learned and used in Swift iOS Development. Note that some of these repositories are private due to the information being purchased and not wanting to release publicly. 
 <hr>
 
