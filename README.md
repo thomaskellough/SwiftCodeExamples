@@ -236,3 +236,6 @@
 
 #### UITextChecker()
 * [HWS-Project05](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2005%20-%20HWS%20Random%20Word%20Game/Project%2005%20-%20Hacking%20With%20Swift)
+
+#### Exension - Intents (INRidesharingDomainHandling)
+* [ChooseCruise](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/ChooseCruise)
