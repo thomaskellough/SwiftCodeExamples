@@ -57,6 +57,7 @@
  
 #### JSON Encoder/Decoder
 * [MarigoldandStudio](https://github.com/thomaskellough/marigoldandstudioiOS/tree/master/Marigoldandstudio)
+* [Memorize](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Memorize/Memorize)
 * [HWS-Milestone19-21](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2019-21/Milestone%20Projects%2019-21)
 * [HWS-Milestone13-15](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2013-15/Milestone%20Projects%2013-15)
 * [HWS-Milestone10-12](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2010-12/Milestone%20Projects%2010-12)
@@ -105,6 +106,9 @@
 * [HWS-Project28](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2028.2%20-%20HWS%20Secret%20Swift)
 * [HWS-Project28.3](https://github.com/thomaskellough/tutorialsSwift/blob/master/Project%2028.3%20-%20HWS%20Names%20to%20Faces/Project%2010%20-%20HWS%20Names%20to%20Faces/ViewController.swift)
 
+#### NSAttributedStrings
+* [Memorize](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Memorize/Memorize)
+
 #### KeychainWrapper
 * [HWS-Project28](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2028.2%20-%20HWS%20Secret%20Swift)
 
@@ -113,12 +117,14 @@
 
 #### UIAnimations
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
+* [Memorize](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Memorize/Memorize)
 * [HWS-Project15.1](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2015.1%20-%20HWS%20Seven%20Swifty%20Words)
 * [HWS-Project15.2](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2015.2%20-%20HWS%20Instafilter/Project%2013%20-%20HWS%20Instafilter)
 * [HWS-Project15.3](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2014%20(1%2C%202%2C%203)%20-%20HWS%20Whack-A-Penguin/Project%2014%20-%20HWS%20Whack-A-Penguin)
 * [HWS-Project26](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2026.3%20-%20HWS%20Marble%20Maze)
 
 #### UITapGestureRecognizer
+* [Memorize](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Memorize/Memorize)
 * [HWS-Multibrowser](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/31%20-%20Multibrowser/31%20-%20Multibrowser)
 
 #### FileManager
