@@ -54,9 +54,13 @@
 #### UITesting
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
 * [HWS-Testing](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/39Tests/39Tests)
+
+#### UISearchController
+* [Friendface](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Friendface/Friendface)
  
 #### JSON Encoder/Decoder
 * [MarigoldandStudio](https://github.com/thomaskellough/marigoldandstudioiOS/tree/master/Marigoldandstudio)
+* [Friendface (with networking)](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Friendface/Friendface)
 * [Memorize](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Memorize/Memorize)
 * [HWS-Milestone19-21](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2019-21/Milestone%20Projects%2019-21)
 * [HWS-Milestone13-15](https://github.com/thomaskellough/tutorialsSwift/tree/master/Milestone%20Projects%2013-15/Milestone%20Projects%2013-15)
