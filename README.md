@@ -3,6 +3,7 @@
 <hr>
 
 #### TableViews
+* [Terminal Wizards (with custom TableViews)](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/TerminalWizard/TerminalWizard)
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
 * [Scorekeeper Lite](https://github.com/thomaskellough/scorekeeper)
 * [MarigoldandStudio](https://github.com/thomaskellough/marigoldandstudioiOS/tree/master/Marigoldandstudio)
