@@ -45,6 +45,7 @@
 * [HWS-PsychicTester](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/37%20-%20Psychic%20Tester/37%20-%20Psychic%20Tester)
 
 #### UserNotifications
+* [Multiminder (threading notifications)](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Three/Multiminder/Multiminder)
 * [MarigoldandStudio](https://github.com/thomaskellough/marigoldandstudioiOS/tree/master/Marigoldandstudio)
 * [HWS-Project21](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2021.2%20-%20HWS%20Local%20Notifications/Project%2021%20-%20HWS%20Local%20Notifications)
 * [HWS-Project21.3](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2021.3%20-%20HWS%20Flag%20Game/Project2)
