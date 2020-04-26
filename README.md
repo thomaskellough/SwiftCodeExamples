@@ -15,11 +15,16 @@
 
 #### StackViews
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
+* [TradeMyTesla](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/TradeMyTesla)
 * [HWS-Multibrowser](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/31%20-%20Multibrowser/31%20-%20Multibrowser)
 * [HWS-FourInARow](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/34%20-%20Four%20in%20a%20Row/34%20-%20Four%20in%20a%20Row)
 
 #### CoreData
 * [HWS-GithubCommits](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/38%20-%20Github%20Commits/38%20-%20Github%20Commits)
+
+#### Core ML
+* [BrainTraining](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Three/BrainTraining/BrainTraining)
+* [TradeMyTesla](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/TradeMyTesla)
 
 #### performselector
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
@@ -79,6 +84,7 @@
 #### CoreImage
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
 * [HWS-Project13](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2013.3%20-%20HWS%20Instafilter/Project%2013%20-%20HWS%20Instafilter)
+* [BrainTraining](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Three/BrainTraining/BrainTraining)
 
 #### CoreLocation
 * [HWS-Project22](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2022.1%20-%20HWS%20Detect%20a%20Beacon/Project%2022%20-%20HWS%20Detect%20a%20Beacon)
@@ -115,6 +121,9 @@
 #### NSAttributedStrings
 * [Memorize](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Memorize/Memorize)
 
+#### NamedColors
+* [TradeMyTesla](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/TradeMyTesla)
+
 #### KeychainWrapper
 * [HWS-Project28](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2028.2%20-%20HWS%20Secret%20Swift)
 
@@ -132,6 +141,9 @@
 #### UITapGestureRecognizer
 * [Memorize](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Memorize/Memorize)
 * [HWS-Multibrowser](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/31%20-%20Multibrowser/31%20-%20Multibrowser)
+
+#### UISegmentedControl
+* [TradeMyTesla](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/TradeMyTesla)
 
 #### FileManager
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
