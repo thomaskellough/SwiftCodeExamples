@@ -20,6 +20,9 @@
 * [Scorekeeper Lite](https://github.com/thomaskellough/scorekeeper)
 * [HWS-Project23.1](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2023.1%20-%20HWS%20Swifty%20Ninja/Project%2023%20-%20HWS%20Swifty%20Ninja)
 
+#### AVKit
+* [VideoXrayB](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/VideoXrayB/VideoXrayB)
+
 #### Bundle
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
 * [SwiftSampler](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/SwiftSampler/SwiftSampler)
@@ -51,6 +54,8 @@
 
 #### Core ML
 * [BrainTraining](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Three/BrainTraining/BrainTraining)
+* [VideoXrayA](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/VideoXrayA/VideoXrayA)
+* [VideoXrayB](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/VideoXrayB/VideoXrayB)
 * [TradeMyTesla](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/TradeMyTesla)
 
 #### CoreMotion
