@@ -19,6 +19,9 @@
 * [HWS-Multibrowser](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/31%20-%20Multibrowser/31%20-%20Multibrowser)
 * [HWS-FourInARow](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/34%20-%20Four%20in%20a%20Row/34%20-%20Four%20in%20a%20Row)
 
+#### PDFKit
+* [SwiftSampler](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/SwiftSampler/SwiftSampler)
+
 #### CoreData
 * [HWS-GithubCommits](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/38%20-%20Github%20Commits/38%20-%20Github%20Commits)
 
@@ -103,6 +106,7 @@
 #### SafariServices
 * [MarigoldandStudio](https://github.com/thomaskellough/marigoldandstudioiOS/tree/master/Marigoldandstudio)
 * [HWS-SwiftSearcher](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/32%20-%20SwiftSearcher/32%20-%20SwiftSearcher)
+* [SwiftSampler](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/SwiftSampler/SwiftSampler)
 
 #### AVFoundation
 * [HWS-HappyDays](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/Happy%20Days)
@@ -120,6 +124,7 @@
 
 #### NSAttributedStrings
 * [Memorize](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Swift%20on%20Sundays/Memorize/Memorize)
+* [SwiftSampler](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/SwiftSampler/SwiftSampler)
 
 #### NamedColors
 * [TradeMyTesla](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/TradeMyTesla)
@@ -250,11 +255,15 @@
 * [HWS-Project07](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2007%20-%20HWS%20Petitions/Project%2007%20-%20Hacking%20With%20Swift)
 * [HWS-Project16](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2016.3%20-%20HWS%20Capital%20Cities/Project%2016%20-%20HWS%20Capital%20Cities)
 
+#### Regex
+* [SwiftSampler](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/SwiftSampler/SwiftSampler)
+
 #### KVO
 * [HWS-Project04](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2004%20-%20HWS%20Web%20Browser/Project%2004%20-%20Hacking%20With%20Swift)
 
 #### Bundle
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
+* [SwiftSampler](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/SwiftSampler/SwiftSampler)
 * [HWS-Project05](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2005%20-%20HWS%20Random%20Word%20Game/Project%2005%20-%20Hacking%20With%20Swift)
 * [HWS-Project08](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2008%20-%20HWS%20Seven%20Swifty%20Words/Project%2008%20-%20Hacking%20With%20Swift)
 
