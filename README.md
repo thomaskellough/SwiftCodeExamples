@@ -80,6 +80,9 @@
 #### Exension - Intents (INRidesharingDomainHandling)
 * [ChooseCruise](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/ChooseCruise)
 
+#### Extension - Message
+* [HWS-TimeShare](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/TimeShare)
+
 #### FileManager
 * [Flingo Match](https://github.com/thomaskellough/flingomatch)
 * [HWS-Project10](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2010.1%20-%20HWS%20Names%20to%20Faces/Project%2010%20-%20HWS%20Names%20to%20Faces)
@@ -126,9 +129,6 @@
 #### MapKit
 * [MarigoldandStudio](https://github.com/thomaskellough/marigoldandstudioiOS/tree/master/Marigoldandstudio)
 * [HWS-Project16](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2016.3%20-%20HWS%20Capital%20Cities/Project%2016%20-%20HWS%20Capital%20Cities)
-
-#### MessageExtenstion
-* [HWS-TimeShare](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/TimeShare)
 
 #### MobileCoreServices
 * [HWS-HappyDays](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20One/Happy%20Days)
