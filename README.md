@@ -122,6 +122,7 @@
 
 #### Layout/Constraints Programatically
 * [Scorekeeper Lite](https://github.com/thomaskellough/scorekeeper)
+* [IntermediateDesignPatterns](https://github.com/thomaskellough/ray-wenderlich-tutorials-swift/tree/master/IntermediateDesignPatterns.xcworkspace)
 * [HWS-Project06.2](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2006.2%20-%20HWS%20Labels%20Programatically/Project%2006.2%20-%20Hacking%20With%20Swift)
 * [HWS-Project08](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2008%20-%20HWS%20Seven%20Swifty%20Words/Project%2008%20-%20Hacking%20With%20Swift)
 
@@ -130,6 +131,7 @@
 * [HWS-Project28.3](https://github.com/thomaskellough/tutorialsSwift/blob/master/Project%2028.3%20-%20HWS%20Names%20to%20Faces/Project%2010%20-%20HWS%20Names%20to%20Faces/ViewController.swift)
 
 #### MapKit
+* [CoffeeQuest](https://github.com/thomaskellough/ray-wenderlich-tutorials-swift/tree/master/CoffeeQuest)A
 * [MarigoldandStudio](https://github.com/thomaskellough/marigoldandstudioiOS/tree/master/Marigoldandstudio)
 * [HWS-Project16](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2016.3%20-%20HWS%20Capital%20Cities/Project%2016%20-%20HWS%20Capital%20Cities)
 
@@ -139,6 +141,10 @@
 
 #### MultipeerConnectivity
 * [HWS-Project25](https://github.com/thomaskellough/tutorialsSwift/blob/master/Project%2025.3%20-%20HWS%20Selfie%20Share/Project%2025%20-%20HWS%20Selfie%20Share/ViewController.swift)
+
+#### MVVM Design patterns
+* [CoffeeQuest](https://github.com/thomaskellough/ray-wenderlich-tutorials-swift/tree/master/CoffeeQuest)
+* [IntermediateDesignPatterns](https://github.com/thomaskellough/ray-wenderlich-tutorials-swift/tree/master/IntermediateDesignPatterns.xcworkspace)
 
 #### NamedColors
 * [TradeMyTesla](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/TradeMyTesla)
