@@ -131,6 +131,7 @@
 * [HWS-Project28.3](https://github.com/thomaskellough/tutorialsSwift/blob/master/Project%2028.3%20-%20HWS%20Names%20to%20Faces/Project%2010%20-%20HWS%20Names%20to%20Faces/ViewController.swift)
 
 #### MapKit
+* [Agents_Partner_Starter](https://github.com/thomaskellough/ray-wenderlich-tutorials-swift/tree/master/Agents_Partner_Starter)
 * [CoffeeQuest](https://github.com/thomaskellough/ray-wenderlich-tutorials-swift/tree/master/CoffeeQuest)A
 * [MarigoldandStudio](https://github.com/thomaskellough/marigoldandstudioiOS/tree/master/Marigoldandstudio)
 * [HWS-Project16](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2016.3%20-%20HWS%20Capital%20Cities/Project%2016%20-%20HWS%20Capital%20Cities)
@@ -177,6 +178,9 @@
 * [HWS-Project23.1](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2023.1%20-%20HWS%20Swifty%20Ninja/Project%2023%20-%20HWS%20Swifty%20Ninja)
 * [HWS-Project26](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2026.3%20-%20HWS%20Marble%20Maze)
 
+#### Realm
+* [Agents_Partner_Starter](https://github.com/thomaskellough/ray-wenderlich-tutorials-swift/tree/master/Agents_Partner_Starter)
+
 #### Regex
 * [SwiftSampler](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/SwiftSampler/SwiftSampler)
 
@@ -184,6 +188,9 @@
 * [MarigoldandStudio](https://github.com/thomaskellough/marigoldandstudioiOS/tree/master/Marigoldandstudio)
 * [HWS-SwiftSearcher](https://github.com/thomaskellough/HWS-Tutorials/tree/master/HWS%20UIKit%20Edition/32%20-%20SwiftSearcher/32%20-%20SwiftSearcher)
 * [SwiftSampler](https://github.com/thomaskellough/HWS-Tutorials/tree/master/Advanced%20iOS%20Volume%20Two/SwiftSampler/SwiftSampler)
+
+#### Segues
+* [Agents_Partner_Starter](https://github.com/thomaskellough/ray-wenderlich-tutorials-swift/tree/master/Agents_Partner_Starter)
 
 #### SKEmitters
 * [HWS-Project11.1](https://github.com/thomaskellough/tutorialsSwift/tree/master/Project%2011.1%20-%20HWS%20Pachinko/Project%2011%20-%20HWS%20Pachinko)
